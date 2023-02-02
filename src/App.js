@@ -1,7 +1,7 @@
 import { useState, useEffect } from "react";
 function Hello() {
   function byFn() {
-    console.log("bye :(");
+    console.log("bye  :(");
   }
   // 컴포넌트가 파괴 될때 return한 function을 호출하게 됨
   function hiFn() {
